@@ -1,6 +1,5 @@
 ***********Formulario de matriculas*********
-Universidad:
-Facultad:
-Carrera:
-Materias:
-Créditos:
+Nombre:
+Cedula:
+Correo:
+Direccion:
