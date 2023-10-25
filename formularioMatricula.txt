@@ -1,3 +1,9 @@
 *******************Matricula*****************
-Nombre:
-Carerra: 
+Nombre: David
+Universidad: UTA
+Carerra: Software
+Materias: Base de datos
+	  Manejo y configuración
+	  M. Ágiles
+	  Redes
+Créditos: 18

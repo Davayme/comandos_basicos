@@ -1,5 +1,5 @@
 ***********Formulario de matriculas*********
-Nombre:
-Cedula:
-Correo:
-Direccion:
+Nombre: David Ayme
+Cedula: 1805271937
+Correo: davayme@gmail.com
+Direccion: En tu corazón
