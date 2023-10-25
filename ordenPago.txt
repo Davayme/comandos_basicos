@@ -1,6 +1,6 @@
 ******Orden de pago******
-Nombre estudiante:
-Fecha:
-Valor a pagar:
+Nombre estudiante: David Ayme
+Fecha: 25/10/2023
+Valor a pagar: 120.00
 
 
