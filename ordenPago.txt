@@ -4,3 +4,7 @@ Fecha: 25/10/2023
 Valor a pagar: 120.00
 Semestre: cuarto 
 
+Nombre estudiante: Juan perez
+Fecha: 30/10/2023
+Valor a pagar: 100.00
+Semestre: sexto 
