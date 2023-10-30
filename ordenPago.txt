@@ -7,4 +7,4 @@ Semestre: cuarto
 Nombre estudiante: Juan perez
 Fecha: 30/10/2023
 Valor a pagar: 100.00
-Semestre: sexto 
+Semestre: cuarto 
